@@ -1,7 +1,7 @@
 import { LightningElement } from 'lwc';
 
 export default class Home extends LightningElement {
-    user = 'Riya';
-    contact = '987654876';
-    messege = 'Welcome to salesforce';
+    user = 'Amil';
+    contact = '987654998';
+    messege = 'Welcome to Azure';
 }
