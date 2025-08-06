@@ -5,3 +5,4 @@ export default class Home extends LightningElement {
     contact = '987654998';
     messege = 'Welcome to Azure';
 }
+
